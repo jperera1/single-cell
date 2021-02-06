@@ -1,2 +1,3 @@
 # single-cell
-# This is the project that will provide a walkthrough of my scRNAseq analysis. 
+# scRNAseq analysis project for independent study 
+
